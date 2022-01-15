@@ -1,0 +1,7 @@
+C:\Users\mohamad\source\repos\ProjeDaneshjoo\ProjeDaneshjoo\bin\Debug\ProjeDaneshjoo.exe.config
+C:\Users\mohamad\source\repos\ProjeDaneshjoo\ProjeDaneshjoo\bin\Debug\ProjeDaneshjoo.exe
+C:\Users\mohamad\source\repos\ProjeDaneshjoo\ProjeDaneshjoo\bin\Debug\ProjeDaneshjoo.pdb
+C:\Users\mohamad\source\repos\ProjeDaneshjoo\ProjeDaneshjoo\obj\Debug\ProjeDaneshjoo.csproj.AssemblyReference.cache
+C:\Users\mohamad\source\repos\ProjeDaneshjoo\ProjeDaneshjoo\obj\Debug\ProjeDaneshjoo.csproj.CoreCompileInputs.cache
+C:\Users\mohamad\source\repos\ProjeDaneshjoo\ProjeDaneshjoo\obj\Debug\ProjeDaneshjoo.exe
+C:\Users\mohamad\source\repos\ProjeDaneshjoo\ProjeDaneshjoo\obj\Debug\ProjeDaneshjoo.pdb
