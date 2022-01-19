@@ -86,7 +86,7 @@ namespace ProjeDaneshjoo
                         };
                     }
 
-                    users[Arraynumber - 1] = new User()      //بخاطر خاصیت آرایه که از صفر شروع میکنه مثلا برای اینکه بخوایم یوزر اول رو ازش نمونه سازی کنیم اون یوزر توی ارایه میشه یوزر صفرم که اینجا بخاطز اون منهای یک کردیم
+                    users[Arraynumber - 1] = new User()     
                     {
                         Name = name,
                         PhoneNumber = phone,
